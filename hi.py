@@ -1,4 +1,6 @@
-hello
-gi
-hy
-pttyy
+##hello
+#gi
+#hy
+
+
+print ('hellooooo')
